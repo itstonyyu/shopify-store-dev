@@ -1,0 +1,11 @@
+{
+  "store": "YOUR-STORE-NAME",
+  "api_version": "2024-01",
+  "live_theme_id": 0,
+  "live_theme_name": "",
+  "dev_theme_id": 0,
+  "dev_theme_name": "",
+  "access_token": "shpat_PASTE_YOUR_TOKEN_HERE",
+  "created_at": "",
+  "base_url": "https://YOUR-STORE-NAME.myshopify.com/admin/api/2024-01"
+}
